@@ -70,7 +70,7 @@ All intended of use, the responsibility rests with you. So, use wisely!
 
 ## Usage
 See the below use cases of this awsome library
-
+```
 # GoogleSearch = GSearch('Tokopedia', 1, 3)
 # print(GoogleSearch.to_json())
 
@@ -101,3 +101,4 @@ See the below use cases of this awsome library
 
 # GoogleScholar = GScholar('Penggunaan Naive Bayes Classifier', 1, 3)
 # print(GoogleScholar.to_json())
+```
